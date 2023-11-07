@@ -1,0 +1,7 @@
+Matheus Abrantes
+
+I choose to do the tutorial with React "framework". I really liked its approach to building interactive user interfaces. The framework elegantly handles user interfaces updates by automatically syncing with state changes. That not only facilitates the development process but also ensures a seamless user experience. Beyond its responsiveness, I think that React’s Virtual DOM is a game-changer. It creates a simplified copy of the actual DOM, enabling the framework to optimize UI updates with finesse, leading to noticeable performance improvements and less issue dealing with direct DOM manipulation. 
+
+One thing that I didn't like and it was a little bit annoying for me it was how much React loves to make you repeat yourself. For setting up components, I end up writing the same kind of code over and over. Also, if you are dealing with larger applications state management in react can be frustrating and take a lot of time. 
+
+For the entertaining fun part, I believe it was finishing this tutorial because it was long. Besides that, I've ran into a typo that took me forever to find since react's error messages doesn't give you a lot of information on the error. Because of that, I thought I had everything wrong since I was editing a lot of code and several files at the same time. It was not working, but I found out that it was just a simple typo which is always funny and reliefing to find in the end.
